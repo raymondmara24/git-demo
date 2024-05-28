@@ -37,3 +37,15 @@ git status -- displays the current status of your file/folder
 git log -- show all the commits that were made
 
 git log --oneline  -- to show the short version of all the commits that we make
+
+ctrl + C -- pag nagkamali ka ng type to cancel
+
+git -- tool that tracks the change you made in 
+
+GitHub -- a central online repository
+
+git remote add origin <add the link of your repository copy the https if windows copy the ssh if macos>
+
+git remote -v -- 
+ 
+git push -u origin master -- yung -u pra di kna mag tatype ulit ng mahaba next time git push nlng. yung -u dun nya 			na iinsert sa upper 
