@@ -33,3 +33,7 @@ git add <file name> -- adds a specific file only to the staging area
 git  commit -m "message" -- saves the changes that you've made to the files in the staging area to the repository. 			The message describes what changes were made in this commit. 
 
 git status -- displays the current status of your file/folder
+
+git log -- show all the commits that were made
+
+git log --oneline  -- to show the short version of all the commits that we make
