@@ -48,4 +48,8 @@ git remote add origin <add the link of your repository copy the https if windows
 
 git remote -v -- 
  
-git push -u origin master -- yung -u pra di kna mag tatype ulit ng mahaba next time git push nlng. yung -u dun nya 			na iinsert sa upper 
+git push -u origin <master/main depende sa device mo kung ano nkalagay> -- yung -u pra di kna mag tatype ulit ng mahaba next time git push nlng. yung -u dun nya na iinsert sa upper 
+
+git pull -- retrieving changes from a remote repo and merges them into your local repository, pang update kung may mga new changes
+
+git clone -- creating a copy of a remote repo on your local machine
